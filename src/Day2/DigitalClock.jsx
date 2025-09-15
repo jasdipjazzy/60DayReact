@@ -15,6 +15,7 @@ const DigitalClock=()=>{
 
 return(
     <>
+    <h1>Welcome to my digital clock!</h1>
     <h1>Digital Clock</h1>
     <h2>{time}</h2>
     </>
