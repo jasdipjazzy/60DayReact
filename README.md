@@ -1,12 +1,43 @@
-# React + Vite
+60 Days of React: A Learning Journey 🚀
+Welcome to my repository for the #60DaysOfReact challenge! This is my personal commitment to intensively learn and master React.js over a 60-day period, from September 11, 2025, to November 10, 2025.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository serves as a public journal, a code log, and a portfolio of the projects I build along the way. I'll be documenting my daily progress, challenges, and key learnings here.
 
-Currently, two official plugins are available:
+The Goal
+The primary objective is to transition from foundational knowledge to building and deploying complex, production-ready React applications. By the end of this journey, I aim to have a deep and practical understanding of the React ecosystem.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Key Objectives:
+[ ] Master React fundamentals (Components, JSX, Props, State).
 
-## Expanding the ESLint configuration
+[ ] Achieve proficiency with React Hooks (useState, useEffect, useContext, useReducer, etc.).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[ ] Implement client-side routing with React Router.
+
+[ ] Manage application state effectively using tools like Redux Toolkit or Zustand.
+
+[ ] Interact with REST APIs for data fetching, creation, and updates.
+
+[ ] Write clean, reusable, and maintainable code.
+
+[ ] Build and deploy at least 3 portfolio-worthy projects.
+
+Tech Stack
+This journey will focus on the modern React ecosystem.
+
+Core Technologies:
+
+Framework/Library: ⚛️ React.js
+
+Build Tool: ⚡ Vite
+
+Language: 📜 JavaScript (ES6+) & potentially TypeScript
+
+Styling: 💅 CSS Modules, Styled-Components, or Tailwind CSS
+
+Routing: 🗺️ React Router
+
+State Management: 🔄 Redux Toolkit / Zustand
+
+API Interaction: 🌐 Axios / Fetch API
+
+Daily Log: I am updating the git repo everday with new task and also i am jorunaling about this and making the daily log on X as well.
